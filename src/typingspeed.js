@@ -28,7 +28,7 @@ const Typingspeed = (props) => {
 
   const inputcheck = useMemo(() => {
     const filterdinput = inputsring.includes(
-      "i am not a human i am super human"
+      "i am not a voices in my head"
     );
     if (count == 9 && filterdinput === true) {
       return setfiltertrue(true);
