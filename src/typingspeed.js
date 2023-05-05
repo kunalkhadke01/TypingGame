@@ -40,7 +40,7 @@ const Typingspeed = (props) => {
         TYPING SPEED TEST <p>Test your typing skills (Timing:10sec)</p>
       </h5>
       <div>
-        <h2 className="textcolor">"i am not a voices in my head"</h2>
+        <h2 className="textcolor">Text: -> "i am not a voices in my head"</h2>
       </div>
       <input
         type="string"
